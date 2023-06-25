@@ -1,5 +1,4 @@
-Chapter 2: Assessing Your Current Approach to Delegation: Identifying Your Personal Delegation Style
-====================================================================================================
+# Identifying Your Personal Delegation Style
 
 Effective delegation requires understanding your personal delegation style and how it affects your team's performance. In this chapter, we will explore strategies for identifying your personal delegation style.
 

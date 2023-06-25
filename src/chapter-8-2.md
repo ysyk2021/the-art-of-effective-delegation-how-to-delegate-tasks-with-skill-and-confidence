@@ -1,5 +1,4 @@
-Chapter 8: Overcoming Challenges and Reservations: Overcoming Perfectionism
-===========================================================================
+# Overcoming Perfectionism
 
 Perfectionism can be a significant barrier to effective delegation. When managers and leaders strive for perfection, they may hesitate to delegate tasks or micromanage team members, leading to decreased productivity and a lack of trust among team members. In this chapter, we will explore strategies for overcoming perfectionism when delegating tasks.
 

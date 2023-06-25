@@ -1,5 +1,4 @@
-Chapter 9: Continuous Improvement and Evaluation: Tracking Progress and Measuring Results
-=========================================================================================
+# Tracking Progress and Measuring Results
 
 Tracking progress and measuring results are important components of effective delegation. In this chapter, we will explore strategies for tracking progress and measuring results to improve your delegation skills.
 

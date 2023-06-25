@@ -1,5 +1,4 @@
-Chapter 4: Selecting the Right Person for the Job: Evaluating Employee Skills and Abilities
-===========================================================================================
+# Evaluating Employee Skills and Abilities
 
 Selecting the right person for a delegated task is essential for successful delegation. In this chapter, we will explore strategies for evaluating employee skills and abilities to ensure that the right person is selected for the job.
 

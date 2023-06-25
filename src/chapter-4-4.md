@@ -1,5 +1,4 @@
-Chapter 4: Selecting the Right Person for the Job: Providing Clear Instructions and Expectations
-================================================================================================
+# Providing Clear Instructions and Expectations
 
 Selecting the right person for a delegated task is important for achieving successful outcomes. In this chapter, we will explore strategies for selecting the right person for the job and providing clear instructions and expectations.
 

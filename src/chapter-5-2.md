@@ -1,5 +1,4 @@
-Chapter 5: Communicating Effectively: Techniques for Clear and Concise Communication
-====================================================================================
+# Techniques for Clear and Concise Communication
 
 Clear and concise communication is essential for effective delegation. In this chapter, we will explore techniques for communicating effectively when delegating tasks.
 

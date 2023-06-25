@@ -1,5 +1,4 @@
-Chapter 6: Monitoring Progress and Providing Feedback: Setting Milestones and Deadlines
-=======================================================================================
+# Setting Milestones and Deadlines
 
 Delegating tasks is not a one-and-done process. To ensure that tasks are completed effectively and efficiently, it is important to monitor progress and provide feedback along the way. In this chapter, we will explore strategies for setting milestones and deadlines to help monitor progress and provide feedback.
 

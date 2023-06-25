@@ -1,5 +1,4 @@
-Chapter 9: Continuous Improvement and Evaluation: Reflection and Self-Evaluation
-================================================================================
+# Reflection and Self-Evaluation
 
 Reflection and self-evaluation are important components of effective delegation. In this chapter, we will explore strategies for reflection and self-evaluation to improve your delegation skills.
 

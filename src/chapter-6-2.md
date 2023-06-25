@@ -1,5 +1,4 @@
-Chapter 6: Monitoring Progress and Providing Feedback: Checking in Regularly
-============================================================================
+# Checking in Regularly
 
 Monitoring progress and providing feedback are critical components of effective delegation. In this chapter, we will explore strategies for checking in regularly when delegating tasks.
 

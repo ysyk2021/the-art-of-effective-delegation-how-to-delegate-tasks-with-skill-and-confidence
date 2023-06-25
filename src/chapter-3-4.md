@@ -1,5 +1,4 @@
-Chapter 3: Setting Goals and Priorities: Creating a Delegation Plan
-===================================================================
+# Creating a Delegation Plan
 
 Creating a delegation plan is an essential component of effective delegation. In this chapter, we will explore strategies for creating a delegation plan, including identifying which tasks to delegate, who to delegate them to, and when they should be completed.
 

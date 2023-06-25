@@ -1,5 +1,4 @@
-Chapter 3: Setting Goals and Priorities: Prioritizing Tasks Based on Importance and Urgency
-===========================================================================================
+# Prioritizing Tasks Based on Importance and Urgency
 
 Setting goals and priorities is essential for effective delegation. In this chapter, we will explore strategies for prioritizing tasks based on their importance and urgency.
 

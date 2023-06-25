@@ -1,5 +1,4 @@
-Chapter 6: Monitoring Progress and Providing Feedback: Providing Constructive Feedback
-======================================================================================
+# Providing Constructive Feedback
 
 Providing constructive feedback is an important component of effective delegation. In this chapter, we will explore strategies for providing constructive feedback when delegating tasks.
 

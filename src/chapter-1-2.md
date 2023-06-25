@@ -1,5 +1,4 @@
-Chapter 1: Introduction: Common Misconceptions About Delegation
-===============================================================
+# Common Misconceptions About Delegation
 
 Delegating tasks is an essential skill for managers and leaders, yet there are many misconceptions about delegation that can prevent effective implementation. In this chapter, we will explore common misconceptions about delegation.
 

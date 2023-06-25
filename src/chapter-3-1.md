@@ -1,5 +1,4 @@
-Chapter 3: Setting Goals and Priorities: Defining Your Objectives
-=================================================================
+# Defining Your Objectives
 
 Effective delegation requires setting clear goals and priorities. In this chapter, we will explore strategies for defining objectives and setting priorities when delegating tasks.
 

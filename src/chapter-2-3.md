@@ -1,5 +1,4 @@
-Chapter 2: Assessing Your Current Approach to Delegation: Understanding the Barriers to Effective Delegation
-============================================================================================================
+# Understanding the Barriers to Effective Delegation
 
 Effective delegation requires an understanding of the barriers that can prevent successful delegation. In this chapter, we will explore common barriers to effective delegation and strategies for overcoming them.
 

@@ -1,5 +1,4 @@
-Chapter 7: Avoiding Micromanagement: Balancing Oversight and Autonomy
-=====================================================================
+# Balancing Oversight and Autonomy
 
 Effective delegation requires finding the balance between providing oversight and allowing team members to work independently. Micromanaging can be detrimental to team morale and productivity, but too much autonomy can lead to missed deadlines or poor quality work. In this chapter, we will explore strategies for avoiding micromanagement and finding the right balance between oversight and autonomy.
 

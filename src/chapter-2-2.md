@@ -1,5 +1,4 @@
-Chapter 2: Assessing Your Current Approach to Delegation: Analyzing Your Current Delegation Habits
-==================================================================================================
+# Analyzing Your Current Delegation Habits
 
 Before you can improve your delegation skills, it is important to assess your current approach to delegation. In this chapter, we will explore strategies for analyzing your current delegation habits.
 

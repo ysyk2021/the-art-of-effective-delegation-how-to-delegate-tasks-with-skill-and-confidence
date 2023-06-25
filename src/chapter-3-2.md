@@ -1,5 +1,4 @@
-Chapter 3: Setting Goals and Priorities: Breaking Down Goals into Manageable Tasks
-==================================================================================
+# Breaking Down Goals into Manageable Tasks
 
 Breaking down goals into manageable tasks is an important component of effective delegation. In this chapter, we will explore strategies for breaking down goals and delegating tasks effectively.
 

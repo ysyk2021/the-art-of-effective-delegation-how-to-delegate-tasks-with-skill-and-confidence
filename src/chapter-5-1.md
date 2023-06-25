@@ -1,5 +1,4 @@
-Chapter 5: Communicating Effectively: Understanding the Role of Communication in Delegation
-===========================================================================================
+# Understanding the Role of Communication in Delegation
 
 Effective communication is essential for successful delegation. In this chapter, we will explore the role of communication in delegation and strategies for communicating effectively when delegating tasks.
 

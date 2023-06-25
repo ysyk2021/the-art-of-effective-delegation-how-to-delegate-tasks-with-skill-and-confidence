@@ -1,5 +1,4 @@
-Chapter 8: Overcoming Challenges and Reservations: Dealing with Resistance from Employees
-=========================================================================================
+# Dealing with Resistance from Employees
 
 Resistance from employees can be a significant challenge when delegating tasks. Team members may feel overwhelmed or uncertain about their ability to complete assigned tasks, leading to resistance and hesitation. In this chapter, we will explore strategies for dealing with resistance from employees when delegating tasks.
 

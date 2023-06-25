@@ -1,5 +1,4 @@
-Chapter 4: Selecting the Right Person for the Job: Building Trust and Confidence with Your Team
-===============================================================================================
+# Building Trust and Confidence with Your Team
 
 Selecting the right person for a delegated task is critical for ensuring successful outcomes and building trust and confidence with your team. In this chapter, we will explore strategies for selecting the right person for the job and building trust and confidence with your team.
 

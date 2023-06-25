@@ -1,5 +1,4 @@
-Chapter 5: Communicating Effectively: Active Listening Techniques
-=================================================================
+# Active Listening Techniques
 
 Effective delegation requires not only clear communication but also active listening. In this chapter, we will explore techniques for active listening when delegating tasks.
 

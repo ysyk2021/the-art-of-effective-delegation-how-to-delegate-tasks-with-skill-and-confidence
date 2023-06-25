@@ -1,5 +1,4 @@
-Chapter 5: Communicating Effectively: Handling Questions and Concerns
-=====================================================================
+# Handling Questions and Concerns
 
 Effective communication is a critical component of successful delegation. When delegating tasks, team members are likely to have questions or concerns that need to be addressed. In this chapter, we will explore strategies for handling questions and concerns when delegating tasks.
 

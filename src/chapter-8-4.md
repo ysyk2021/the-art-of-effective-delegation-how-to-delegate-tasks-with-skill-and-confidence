@@ -1,5 +1,4 @@
-Chapter 8: Overcoming Challenges and Reservations: Managing Delegation During Times of Change
-=============================================================================================
+# Managing Delegation During Times of Change
 
 Managing delegation during times of change can be challenging for managers and leaders. In this chapter, we will explore strategies for managing delegation during times of change.
 

@@ -1,5 +1,4 @@
-Chapter 6: Monitoring Progress and Providing Feedback: Handling Performance Issues
-==================================================================================
+# Handling Performance Issues
 
 Monitoring progress and providing feedback is critical for ensuring that delegated tasks are completed successfully. In this chapter, we will explore strategies for monitoring progress and handling performance issues when delegating tasks.
 
