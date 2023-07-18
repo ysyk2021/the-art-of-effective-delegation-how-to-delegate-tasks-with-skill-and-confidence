@@ -6,5 +6,4 @@ This book covers a range of topics related to effective delegation, including se
 
 Whether you are a business owner, manager, or team leader, "The Art of Effective Delegation" offers valuable insights that can help you become a more effective and efficient leader. By mastering the art of delegation, readers can achieve greater productivity, improve work-life balance, and unlock their full potential as leaders.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
