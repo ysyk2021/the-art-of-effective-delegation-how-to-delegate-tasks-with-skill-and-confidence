@@ -1,0 +1,1 @@
+for the book "the art of effective delegation how to delegate tasks with skill and confidence", write a chapter: "providing clear instructions and expectations".  Use Markdown format. Use English.
