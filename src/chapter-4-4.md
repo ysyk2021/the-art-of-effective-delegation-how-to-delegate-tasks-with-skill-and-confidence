@@ -1,9 +1,8 @@
-Providing Clear Instructions and Expectations
---------------------------------------------------------
+# Providing Clear Instructions and Expectations
 
 In this chapter, we will explore the importance of providing clear instructions and expectations when delegating tasks. Effective delegation relies on clear communication to ensure that tasks are completed accurately and efficiently. By mastering the art of providing clarity, you can delegate tasks with skill and confidence.
 
-### The Power of Clear Instructions
+## The Power of Clear Instructions
 
 Clear instructions lay the foundation for successful task delegation. Follow these guidelines to provide instructions that leave no room for ambiguity:
 
@@ -13,7 +12,7 @@ Clear instructions lay the foundation for successful task delegation. Follow the
 * **Provide examples**: Whenever applicable, provide examples or templates to illustrate the desired outcome. This helps the delegatee visualize expectations and provides a reference point for their work.
 * **Check for understanding**: Encourage the delegatee to ask questions and clarify any doubts regarding the instructions. Confirm their understanding before proceeding to ensure alignment.
 
-### Setting Clear Expectations
+## Setting Clear Expectations
 
 Clear expectations help both parties understand the desired outcomes, timelines, and quality standards. Consider the following strategies to set clear expectations when delegating tasks:
 
@@ -23,7 +22,7 @@ Clear expectations help both parties understand the desired outcomes, timelines,
 * **Establish communication channels**: Discuss how you expect to be updated on progress, questions, or challenges. Determine the most appropriate communication channels and frequency and provide necessary contact information.
 * **Encourage feedback**: Create an environment that is open to questions, feedback, and suggestions. Make it clear that the delegatee's input is valued and encourage them to provide updates or seek clarification when needed.
 
-### Overcoming Barriers to Clarity
+## Overcoming Barriers to Clarity
 
 Despite efforts to provide clear instructions and expectations, barriers may still arise. Here are some common challenges and strategies for overcoming them:
 
