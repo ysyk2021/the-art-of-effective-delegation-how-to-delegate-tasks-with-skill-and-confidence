@@ -1,5 +1,3 @@
-Active Listening Techniques
-========================================
 
 Effective delegation requires strong communication skills, and a crucial aspect of communication is active listening. By actively listening to your team members, you can gather information, understand their perspectives, and build stronger relationships. In this chapter, we will explore various active listening techniques that will enhance your delegation skills.
 

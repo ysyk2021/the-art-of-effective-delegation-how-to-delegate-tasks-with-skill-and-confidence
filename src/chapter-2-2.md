@@ -1,5 +1,3 @@
-Analyzing Your Current Delegation Habits
-====================================================
 
 Before you can improve your delegation skills, it is essential to assess your current delegation habits. Understanding how you currently delegate tasks will help you identify areas of strength and areas that may need improvement. In this chapter, we will explore strategies for analyzing and evaluating your delegation habits.
 

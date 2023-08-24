@@ -1,5 +1,3 @@
-Chapter 2: Assessing Your Current Approach to Delegation
-========================================================
 
 Assessing your current approach to delegation is an important step in improving your delegation skills. In this chapter, we will explore strategies for assessing your current approach to delegation, including identifying your personal delegation style, analyzing your current delegation habits, and understanding the barriers to effective delegation.
 

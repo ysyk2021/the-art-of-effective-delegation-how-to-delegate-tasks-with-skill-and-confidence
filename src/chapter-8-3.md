@@ -1,5 +1,3 @@
-Dealing with Resistance from Employees
-=================================================
 
 Employee resistance to delegation is a common challenge that leaders may encounter. Addressing and managing this resistance is crucial for effective delegation. In this chapter, we will explore strategies for dealing with resistance from employees and ensuring successful delegation.
 

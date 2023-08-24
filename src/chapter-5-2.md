@@ -1,5 +1,3 @@
-Techniques for Clear and Concise Communication
-==========================================================
 
 Effective communication is a cornerstone of successful delegation. When leaders communicate their expectations clearly and concisely, they empower their team members to perform tasks with skill and confidence. In this chapter, we will explore various techniques for improving communication clarity and brevity.
 

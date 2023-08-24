@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Delegation is an essential skill for managers and leaders in the workplace. In this book, we will explore techniques and strategies for delegating tasks with skill and confidence.
 

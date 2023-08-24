@@ -1,5 +1,3 @@
-Chapter 4: Selecting the Right Person for the Job
-=================================================
 
 Selecting the right person for a task is essential for effective delegation. In this chapter, we will explore strategies for selecting the right person for the job, including evaluating employee skills and abilities, developing employees through delegation, building trust and confidence with your team, and providing clear instructions and expectations.
 

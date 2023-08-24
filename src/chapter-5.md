@@ -1,5 +1,3 @@
-Chapter 5: Communicating Effectively
-====================================
 
 Effective delegation requires clear and concise communication. In this chapter, we will explore the role of communication in delegation and techniques for communicating effectively, including active listening and handling questions and concerns.
 

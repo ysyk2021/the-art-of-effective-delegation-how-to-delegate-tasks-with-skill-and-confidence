@@ -1,5 +1,3 @@
-Chapter 10: Conclusion
-======================
 
 Effective delegation is a critical skill for managers and leaders who want to achieve successful outcomes in their organizations. In this chapter, we will recap key delegation techniques and provide final thoughts and advice.
 

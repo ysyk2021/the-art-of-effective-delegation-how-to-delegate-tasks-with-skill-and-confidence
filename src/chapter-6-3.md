@@ -1,5 +1,3 @@
-Providing Constructive Feedback
-==========================================
 
 In "The Art of Effective Delegation: How to Delegate Tasks with Skill and Confidence," providing constructive feedback is a vital aspect of effective leadership and delegation. This chapter explores the importance of giving feedback, highlights the characteristics of constructive feedback, and provides guidance on how to deliver it effectively.
 

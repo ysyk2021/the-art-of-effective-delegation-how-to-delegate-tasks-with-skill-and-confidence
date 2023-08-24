@@ -1,5 +1,3 @@
-Managing Delegation During Times of Change
-======================================================
 
 Change is a constant in today's dynamic work environment, and effective delegation becomes even more critical during times of change. As a leader, navigating change requires adaptability and the ability to delegate tasks with skill and confidence. In this chapter, we will explore strategies for managing delegation effectively during times of change.
 

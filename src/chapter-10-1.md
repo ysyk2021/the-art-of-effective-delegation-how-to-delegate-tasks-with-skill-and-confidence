@@ -1,4 +1,3 @@
-# Recap of Key Delegation Techniques
 
 Effective delegation is an essential skill for managers and leaders. In this book, we have explored various techniques for delegating tasks with skill and confidence. In this final chapter, we will recap key delegation techniques.
 

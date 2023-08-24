@@ -1,5 +1,3 @@
-Understanding the Role of Communication in Delegation
-==================================================================
 
 Effective communication is essential for successful delegation. It ensures clarity, alignment, and accountability among team members. In this chapter, we will explore the role of communication in delegation and how it can enhance collaboration, efficiency, and overall task outcomes.
 

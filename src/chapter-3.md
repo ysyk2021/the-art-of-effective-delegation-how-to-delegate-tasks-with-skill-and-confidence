@@ -1,5 +1,3 @@
-Chapter 3: Setting Goals and Priorities
-=======================================
 
 Setting goals and priorities is an important step in effective delegation. In this chapter, we will explore strategies for setting goals and priorities, including defining your objectives, breaking down goals into manageable tasks, prioritizing tasks based on importance and urgency, and creating a delegation plan.
 

@@ -1,5 +1,3 @@
-Checking In Regularly
-================================
 
 In "The Art of Effective Delegation: How to Delegate Tasks with Skill and Confidence," checking in regularly is a vital aspect of successful delegation. This chapter explores the importance of regular check-ins when delegating tasks and provides insights on how to conduct effective follow-up.
 

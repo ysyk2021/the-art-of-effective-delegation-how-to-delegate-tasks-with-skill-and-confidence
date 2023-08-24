@@ -1,5 +1,3 @@
-Common Misconceptions About Delegation
-=================================================
 
 Delegating tasks is a critical skill for effective leadership and productivity. However, there are several common misconceptions that can hinder the delegation process and prevent leaders from fully leveraging the benefits of delegation. In this chapter, we will explore and debunk some of these misconceptions to help you delegate tasks with skill and confidence.
 

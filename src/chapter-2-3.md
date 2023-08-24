@@ -1,5 +1,3 @@
-Understanding the Barriers to Effective Delegation
-===============================================================
 
 Effective delegation is a vital skill for leaders and managers. However, there are several barriers that can impede the delegation process and hinder its success. In this chapter, we will explore the common obstacles to effective delegation and provide strategies to overcome them.
 
